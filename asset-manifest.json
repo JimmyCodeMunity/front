@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8be049d9.css",
+    "main.js": "/static/js/main.ac8dcb0f.js",
+    "static/js/239.40251f41.chunk.js": "/static/js/239.40251f41.chunk.js",
+    "static/js/213.3a3256ee.chunk.js": "/static/js/213.3a3256ee.chunk.js",
+    "static/js/732.ba6ff35a.chunk.js": "/static/js/732.ba6ff35a.chunk.js",
+    "static/js/453.7c975bcb.chunk.js": "/static/js/453.7c975bcb.chunk.js",
+    "static/media/sunrise.png": "/static/media/sunrise.b19fee5393517bdd8faf.png",
+    "static/media/shangai.png": "/static/media/shangai.910b710f992f597fbd71.png",
+    "static/media/msunrise.png": "/static/media/msunrise.1872db4ec0070fb0654d.png",
+    "static/media/logo.png": "/static/media/logo.f565925282ec613563ff.png",
+    "static/media/xeddo.JPG": "/static/media/xeddo.21b8b948474f8fed2f3b.JPG",
+    "static/media/hero.png": "/static/media/hero.2a817076da55be90ba24.png",
+    "static/media/sydney.png": "/static/media/sydney.d7e4c7ada3404f02ec0b.png",
+    "static/media/Map.png": "/static/media/Map.346e46dd5c297cef7fd7.png",
+    "static/media/temple.png": "/static/media/temple.5f3fbbe1779cc6ff3ef6.png",
+    "static/media/home.JPG": "/static/media/home.74725741dc7eb68f6fca.JPG",
+    "static/media/fiv.JPG": "/static/media/fiv.3c0770cda241394c231b.JPG",
+    "static/media/sev.JPG": "/static/media/sev.a30944fcc33c8ef4b4e1.JPG",
+    "static/media/explore.JPG": "/static/media/explore.7cf2ba56f44dab28b326.JPG",
+    "static/media/HawaiianAirlines.png": "/static/media/HawaiianAirlines.fd397dffce8927e93e8e.png",
+    "index.html": "/index.html",
+    "main.8be049d9.css.map": "/static/css/main.8be049d9.css.map",
+    "main.ac8dcb0f.js.map": "/static/js/main.ac8dcb0f.js.map",
+    "239.40251f41.chunk.js.map": "/static/js/239.40251f41.chunk.js.map",
+    "213.3a3256ee.chunk.js.map": "/static/js/213.3a3256ee.chunk.js.map",
+    "732.ba6ff35a.chunk.js.map": "/static/js/732.ba6ff35a.chunk.js.map",
+    "453.7c975bcb.chunk.js.map": "/static/js/453.7c975bcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8be049d9.css",
+    "static/js/main.ac8dcb0f.js"
+  ]
+}
